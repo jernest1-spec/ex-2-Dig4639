@@ -1,0 +1,20 @@
+{
+  "name": "ex-2-Dig4639",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jernest1-spec/ex-2-Dig4639.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jernest1-spec/ex-2-Dig4639/issues"
+  },
+  "homepage": "https://github.com/jernest1-spec/ex-2-Dig4639#readme"
+}
